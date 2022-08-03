@@ -91,20 +91,20 @@ body {
 }
 
 header {
-  background-image: url(../../img/backgrounds/img\ 3.png);
+  background-image: url(../img/backgrounds/img 3.png);
   background-position: center;
   background-size: cover;
   height: 718px;
 }
 @media screen and (min-width: 481px) {
   header {
-    background-image: url(../../img/backgrounds/img\ 2.png);
+    background-image: url(../img/backgrounds/img 2.png);
     height: 800px;
   }
 }
 @media screen and (min-width: 993px) {
   header {
-    background-image: url(../../img/backgrounds/img\ 1.png);
+    background-image: url(../img/backgrounds/img 1.png);
   }
 }
 
@@ -432,7 +432,7 @@ header {
 }
 
 .testimonials {
-  background-image: url(../../img/backgrounds/testmonials-bg\ 2.png);
+  background-image: url(../img/backgrounds/testmonials-bg 2.png);
   text-align: center;
   background-size: cover;
 }
@@ -672,7 +672,7 @@ header {
   bottom: 8%;
   width: 49%;
   height: 68%;
-  background: url("../../img/backgrounds/code-editor.jpeg");
+  background: url("../img/backgrounds/code-editor.jpeg");
   background-size: cover;
 }
 @media screen and (max-width: 993px) {
