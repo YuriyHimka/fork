@@ -98,13 +98,13 @@ header {
 }
 @media screen and (min-width: 481px) {
   header {
-    background-image: url(../img/backgrounds/img 2.png);
+    background-image: url(img/backgrounds/img 2.png);
     height: 800px;
   }
 }
 @media screen and (min-width: 993px) {
   header {
-    background-image: url(../img/backgrounds/img 1.png);
+    background-image: url(img/backgrounds/img 1.png);
   }
 }
 
